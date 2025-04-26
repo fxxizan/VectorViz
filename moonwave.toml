@@ -1,0 +1,35 @@
+title = "VectorViz"
+gitRepoUrl = "https://github.com/fxxizan/VectorViz"
+
+gitSourceBranch = "main"
+changelog = false
+
+[home]
+enabled = true
+includeReadme = false
+
+[[home.features]]
+title = "Fully type checked"
+description = "Avoid bugs with unspecified arguments and vague functions"
+
+[[home.features]]
+title = "Easy to use"
+description = "Create a beam in one line and let the module do the rest of the work"
+
+[[home.features]]
+title = "Easy to debug"
+description = "Using this module you can easily debug all external forces you're applying to perfect them"
+
+[footer]
+style = "dark"
+copyright = "Made with love by fxxizan"
+
+[[navbar.items]]
+href = "https://discord.gg/JfukYC8rCW"
+label = "Discord"
+position = "right"
+
+organizationName = "fxxizan"
+projectName = "VectorViz"
+url = "https://github.com/fxxizan/VectorViz"
+baseUrl = "/VectorViz/"
