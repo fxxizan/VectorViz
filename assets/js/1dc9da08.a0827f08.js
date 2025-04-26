@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[861],{4410:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/fxxizan/VectorViz/blob/master","baseUrl":"/VectorViz/","classOrder":[],"apiCategories":[]}')}}]);
