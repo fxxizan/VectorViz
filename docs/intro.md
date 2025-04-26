@@ -10,6 +10,8 @@ VectorViz is an easy to use module which simplifies debugging directions you're 
 ## Installation
 Unfortunately VectorViz currently doesn't support any package libraries. In order to install this simply copy and paste the module inside the src folder in the Github resporitory and get started!
 
+(https://github.com/fxxizan/VectorViz/blob/main/src/VectorViz.luau)
+
 ## Example
 Below is an example on how you can utilise VectorViz to visualise an external air resistance force being applied on a football.
 

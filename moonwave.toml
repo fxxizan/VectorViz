@@ -10,15 +10,15 @@ includeReadme = false
 
 [[home.features]]
 title = "Fully type checked"
-description = "Avoid bugs with unspecified arguments and vague functions"
+description = "Avoid bugs with unspecified arguments and vague functions!"
 
 [[home.features]]
 title = "Easy to use"
-description = "Create a beam in one line and let the module do the rest of the work"
+description = "Create a beam in one line and let the module do the rest of the work!"
 
 [[home.features]]
-title = "Easy to debug"
-description = "Using this module you can easily debug all external forces you're applying to perfect them"
+title = "Customisable"
+description = "You can customise how your beam looks with the functions and fit your style or differentiate between them!"
 
 [footer]
 style = "dark"
