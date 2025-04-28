@@ -102,7 +102,7 @@ local function GetDeserialisedSettings(Settings : Settings?) : Settings
         RealVisualsTable = {
             Colour = Color3.fromRGB(255, 0, 0),
             Scale = 1,
-            RealVisualsTable = 0.2,
+            Width = 0.2,
         }
     end
 
